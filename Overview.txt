@@ -1,0 +1,24 @@
+SQL - Structed Query Language
+
+SQL Commands : 
+
+i. DDL - Data Definition Language
+	1. CREATE - Create a new table, a view of a table, or other object in the database
+
+	2. ALTER - Modifies an existing database object, such as a table.
+
+	3. DROP - Deletes an entire table, view of a table or other objects in the database.
+
+ii. DML - Data Manipulation Language
+	1. SELECT - Retrieves certain records from one or more tables.
+
+	2. INSERT - Creates a record.
+
+	3. UPDATE - Modifies record.
+
+	4. DELETE - Deletes records.
+
+iii. DCL - Data Control Language
+	1. GRANT - Gives a priviledge to user.
+
+	2. REVOKE - Takes back privileges granted from user.
