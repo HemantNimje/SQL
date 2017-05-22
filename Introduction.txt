@@ -1,0 +1,1 @@
+This repository is to save quick notes for SQL.
