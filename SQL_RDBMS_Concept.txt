@@ -1,0 +1,19 @@
+RBMS - Relational Database Management System.
+Table - Database object to store data in an RDBMS.
+	1. Field - column, designed to maintain specific information about every record in the table.
+	2. Record - row, individual entry that exists in the table.
+
+NULL - no value/unknown
+
+SQL Constraints - used to limit type of data that can go into a table.
+	1. Table Constraint - applied at whole table
+	2. Column Constraint - applied at column level 
+
+Constraints : 
+1. NOT NULL Constraint - Ensures that a column cannot have a NULL value.
+2. DEFAULT Constraint - Provides a default value for a column when none is specified.
+3. UNIQUE Constraint - Ensures that all the values in a column are different.
+4. PRIMARY Key - Uniquely identifies each row/record in a database table.
+5. FOREIGN Key - Uniquely identifies a row/record in any another database value.
+6. CHECK Constraint - The CHECK constraint ensures that values in a column satisfy certain conditions.
+7. INDEX - Used to create and retrieve data from the database very quickly.
